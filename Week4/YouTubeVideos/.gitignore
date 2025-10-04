@@ -1,0 +1,26 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Ignore Visual Studio Code settings
+.vscode/
+*.code-workspace
+
+# Ignore user-specific and system files
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Ignore compiled files
+*.exe
+*.dll
+*.pdb
+*.db
+
+# Ignore temp/log/backup files
+*.tmp
+*.bak
+*.swp
+*.log
