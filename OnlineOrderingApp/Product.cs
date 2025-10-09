@@ -15,7 +15,7 @@ public class Product
         _quantity = quantity;
     }
 
-    // Getters / Setters
+   
     public string GetName() => _name;
     public void SetName(string value) => _name = value;
 
@@ -30,3 +30,4 @@ public class Product
 
     public decimal GetTotalPrice() => _pricePerUnit * _quantity;
 }
+
