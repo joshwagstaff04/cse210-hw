@@ -1,0 +1,14 @@
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.exe
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.deps.json
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.runtimeconfig.json
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\bin\Debug\net9.0\OnlineOrderingApp.pdb
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.AssemblyInfoInputs.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.AssemblyInfo.cs
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.csproj.CoreCompileInputs.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\refint\OnlineOrderingApp.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.pdb
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\OnlineOrderingApp.genruntimeconfig.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\OnlineOrderingApp\obj\Debug\net9.0\ref\OnlineOrderingApp.dll
