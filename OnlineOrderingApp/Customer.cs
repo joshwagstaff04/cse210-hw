@@ -11,7 +11,7 @@ public class Customer
         _address = address;
     }
 
-    // Getters / Setters
+    
     public string GetName() => _name;
     public void SetName(string value) => _name = value;
 
@@ -20,3 +20,4 @@ public class Customer
 
     public bool LivesInUSA() => _address.IsInUSA();
 }
+
