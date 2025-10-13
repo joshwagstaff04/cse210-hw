@@ -1,0 +1,14 @@
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\bin\Debug\net9.0\MindfulnessProgram.exe
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.AssemblyInfoInputs.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.AssemblyInfo.cs
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.csproj.CoreCompileInputs.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\refint\MindfulnessProgram.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.pdb
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\bin\Debug\net9.0\MindfulnessProgram.deps.json
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\bin\Debug\net9.0\MindfulnessProgram.runtimeconfig.json
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\bin\Debug\net9.0\MindfulnessProgram.dll
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\bin\Debug\net9.0\MindfulnessProgram.pdb
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\MindfulnessProgram.genruntimeconfig.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\Week5\MindfulnessProgram\obj\Debug\net9.0\ref\MindfulnessProgram.dll
