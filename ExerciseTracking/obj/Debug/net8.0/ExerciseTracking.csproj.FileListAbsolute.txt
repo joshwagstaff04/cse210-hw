@@ -1,0 +1,4 @@
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfoInputs.cache
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.AssemblyInfo.cs
+C:\Users\joshi\OneDrive\Desktop\homeword\cse210\ExerciseTracking\obj\Debug\net8.0\ExerciseTracking.csproj.CoreCompileInputs.cache
