@@ -1,0 +1,29 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# VS Code
+.vscode/
+.history/
+
+# Visual Studio
+.vs/
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.bak
+
+# Test results
+TestResults/
